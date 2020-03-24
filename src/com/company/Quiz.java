@@ -85,6 +85,6 @@ public class Quiz {
         question9.check();
         question10.check();
 
-        MultipleChoiceQuestion.showResults();
+        Question.showResults();
     }
 }
